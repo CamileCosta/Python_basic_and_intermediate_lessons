@@ -1,41 +1,41 @@
 # Python Lessons 🐍
 
-Um repositório educacional contendo materiais, exemplos e exercícios para aprendizado de Python.
+An educational repository containing materials, examples, and exercises for learning Python.
 
-## 📚 Sobre este Repositório
+## 📚 About This Repository
 
-Este repositório foi criado para compartilhar conhecimentos e recursos sobre programação em Python, desde conceitos básicos até tópicos mais avançados. É ideal para iniciantes que desejam aprender Python ou para desenvolvedores que queiram revisar conceitos fundamentais.
+This repository was created to share knowledge and resources about Python programming, from basic concepts to more advanced topics. It's ideal for beginners who want to learn Python or for developers who want to review fundamental concepts.
 
-## 🎯 Objetivos
+## 🎯 Objectives
 
-- Fornecer uma base sólida em Python
-- Apresentar exemplos práticos e didáticos
-- Oferecer exercícios para fixação do conteúdo
-- Compartilhar boas práticas de programação
+- Provide a solid foundation in Python
+- Present practical and didactic examples
+- Offer exercises for content reinforcement
+- Share programming best practices
 
-## 🗂️ Estrutura do Repositório
+## 🗂️ Repository Structure
 
 ```
 Python/
-├── 📁 backgrounds/     # Papel de parede do software
-├── 📁 Desafios/        # Desafios feitos para prática
-├── 📁 Exercícios/      # Exercícios para cada lição
-├── 📁 Prática/         # Mais prática das lições
-└──📁 Projects/         # Mini Projetihos
+├── 📁 backgrounds/     # Software wallpapers
+├── 📁 Challenges/      # Challenges for practice
+├── 📁 Exercises/       # Exercises for each lesson
+├── 📁 Practice/        # Additional lesson practice
+└── 📁 Projects/        # Mini Projects
 ```
 
-## 📖 Tópicos Abordados
+## 📖 Topics Covered
 
-- ✅ Sintaxe básica do Python
-- ✅ Variáveis e tipos de dados
-- ✅ Estruturas de controle (if, for, while)
-- ✅ Estruturas de dados (listas, tuplas, dicionários)
-- ✅ Funções e módulos
-- ✅ Programação Orientada a Objetos
-- ✅ Manipulação de arquivos
-- ✅ Tratamento de exceções
-- ⏳ E muito mais...
+- ✅ Basic Python syntax
+- ✅ Variables and data types
+- ✅ Control structures (if, for, while)
+- ✅ Data structures (lists, tuples, dictionaries)
+- ✅ Functions and modules
+- ✅ Object-Oriented Programming
+- ✅ File handling
+- ✅ Exception handling
+- ⏳ And much more...
 
-## 👩‍💻 Autora
+## 👩‍💻 Author
 
 **Camile Costa**
