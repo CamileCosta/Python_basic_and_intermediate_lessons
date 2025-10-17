@@ -23,7 +23,7 @@ class Pokemon:
         if self.is_caught:
             print(self.name + ' has already been caught!')
         else:
-            print(self.name + ' hasn\'t been caught yet.')
+            print(self.name + " hasn't been caught yet.")
 
 
 Pikachu = Pokemon(25, 'Pikachu', ['Eletric'],
